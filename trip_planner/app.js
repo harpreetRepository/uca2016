@@ -6,7 +6,7 @@ app.use(bodyParser.json());
 app.use(express.static(__dirname + '/static'));
 
 app.get('/test', function(req, res){
-  console.log("In method test");
+  console.log("In method by harpreet");
   res.end("hurray!! trip_planner is working")
 });
 
