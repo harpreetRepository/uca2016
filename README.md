@@ -2,7 +2,7 @@
 1. Installing Node
 
 	a. $sudo apt-get install nodejs
-	
+	chcking pull command
 	b. $sudo ln -s /usr/bin/nodejs /usr/bin/node
 	
 	c. $sudo apt-get install npm
